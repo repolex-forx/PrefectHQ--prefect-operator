@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PrefectHQ/prefect-operator/commit/a8ab74c3ff32f59605d6748829568b367cea9b71",
       "git:hexsha": "a8ab74c3ff32f59605d6748829568b367cea9b71",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PrefectHQ/prefect-operator/commit/00d84eefbb1cffbaf020ef8b877a01479d4a019a",
